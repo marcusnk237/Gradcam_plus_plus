@@ -6,6 +6,7 @@ The output can be an image, with the signal as the foreground and the heatmap as
 ![Alt text](https://github.com/marcusnk237/Gradcam_plus_plus/blob/main/results_gradcam/gradcam_plus_plus_2d.png)
 
 The output can be the signal with each important segment draw with a color which represent the importance for the classification/prediction
+
 ![Alt text](https://github.com/marcusnk237/Gradcam_plus_plus/blob/main/results_gradcam/gradcam_plus_plus_1d.png)
 
 Sources :
