@@ -1,5 +1,5 @@
 # Gradcam_plus_plus
-one of the first implementation of Grad-CAM ++ (https://doi.org/10.1109/WACV.2018.00097)  for time series / 1d signal.   The module  gives a visual explainations of the decisions made by Deep Learning model (Especially for classification problems). GRAD-CAM++ helps to understand how the model works and assert the model results.
+one of the first implementation of Grad-CAM ++  for time series / 1d signal.   The module  gives a visual explainations of the decisions made by Deep Learning model (Especially for classification problems). GRAD-CAM++ helps to understand how the model works and assert the model results.
 
 - The output can be an image, with the signal as the foreground and the heatmap as the background
  
